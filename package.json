@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/wnwd/hexo-asset-pro.git"
+    "url": "git+https://github.com/mapxn/hexo-asset-pro.git"
   },
   "keywords": [
     "hexo",
@@ -17,10 +17,10 @@
     "image",
     "path"
   ],
-  "author": "wnwd",
+  "author": "mapxn",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/wnwd/hexo-asset-pro/issues"
+    "url": "https://github.com/mapxn/hexo-asset-pro/issues"
   },
-  "homepage": "https://github.com/wnwd/hexo-asset-pro#readme"
+  "homepage": "https://github.com/mapxn/hexo-asset-pro#readme"
 }
